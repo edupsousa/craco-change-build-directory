@@ -1,7 +1,7 @@
 {
   "name": "craco-change-build-directory",
   "version": "1.0.0",
-  "description": "Plugin to change build public directory on create-react-app projects using CRACO",
+  "description": "Plugin to change build directory on create-react-app projects using CRACO",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
